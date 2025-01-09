@@ -1,0 +1,13 @@
+---
+title: "Aula 1"
+author: "Luccas Gissoni"
+date: "2025-01-09"
+output: html_document:
+    toc: true
+    toc_float: true
+bibliography: bibliografia.bib
+csl: associacao-brasileira-de-normas-tecnicas.csl
+---
+
+## Teste
+
